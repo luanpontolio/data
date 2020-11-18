@@ -1,0 +1,22 @@
+[
+  {
+    "link": "https://www.linkedin.com/in/luanpontolio/",
+    "title": "LinkedIn",
+    "description": "My professional profile"
+  },
+  {
+    "link": "https://github.com/luanpontolio",
+    "title": "Github",
+    "description": "My personal projects"
+  },
+  {
+    "link": "mailto:luan.pontolio@gmail.com",
+    "title": "Gmail",
+    "description": "Contact me here"
+  },
+  {
+    "link": "https://www.instagram.com/luan_spontolio/",
+    "title": "Instagram",
+    "description": "Follow me"
+  }
+]
